@@ -1,0 +1,14 @@
+{
+  "name": "wemx/service-windowsvm",
+  "type": "laravel-module",
+  "description": "Manual Windows VM service for WemX (RDP details displayed in client area).",
+  "license": "proprietary",
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\Services\\WindowsVM\\": ""
+    }
+  }
+}

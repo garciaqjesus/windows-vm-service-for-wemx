@@ -1,0 +1,11 @@
+{
+    "name": "WindowsVM",
+    "alias": "windowsvm",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "App\\Services\\WindowsVM\\Providers\\WindowsVMServiceProvider"
+    ],
+    "files": []
+}
