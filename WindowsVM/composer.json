@@ -2,7 +2,7 @@
   "name": "wemx/service-windowsvm",
   "type": "laravel-module",
   "description": "Manual Windows VM service for WemX (RDP details displayed in client area).",
-  "license": "proprietary",
+  "license": "MIT",
   "require": {
     "php": ">=8.1"
   },
