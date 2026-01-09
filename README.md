@@ -128,6 +128,5 @@ See: **docs/CONFIGURABLE_OPTIONS.md**
 
 ## License
 
-MIT (or your preferred license).
+MIT 
 
-> If you want, add a LICENSE file and update this section.
